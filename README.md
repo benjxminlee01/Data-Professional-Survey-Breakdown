@@ -1,4 +1,4 @@
-**Survey Data Analysis and Visualization of Data Professionals**
+# **Survey Data Analysis and Visualization of Data Professionals**
 
 **Project Summary:**
 Conducted a comprehensive Power BI project to analyze survey data collected from data professionals. The project involved transforming raw data using Power Query, creating insightful visualizations, and developing an aesthetically appealing dashboard with a customized theme and color scheme.

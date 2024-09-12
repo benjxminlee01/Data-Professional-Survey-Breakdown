@@ -22,3 +22,6 @@ Conducted a comprehensive Power BI project to analyze survey data collected from
 
 **Outcome:**
 Delivered a fully functional and visually compelling Power BI dashboard that provided meaningful insights from the survey data of data professionals, providing data-driven insights.
+
+![Screenshot 2024-09-11 201801](https://github.com/user-attachments/assets/7a46b353-2450-4f4e-8151-d3c9dab46a9b)
+
